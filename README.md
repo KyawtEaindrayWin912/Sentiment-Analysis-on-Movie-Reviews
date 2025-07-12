@@ -70,7 +70,7 @@ Sentiment-Analysis-on-Movie-Review/
 ### 1. Clone and Setup
 
 ```bash
-git clone https://github.com/KyawtEaindrayWin912/Sentiment-Analysis-on-Movie-Review.git
+git clone https://github.com/KyawtEaindrayWin912/Sentiment-Analysis-on-Movie-Reviews.git
 cd Sentiment-Analysis-on-Movie-Review
 pip install -r requirements.txt
 ````
